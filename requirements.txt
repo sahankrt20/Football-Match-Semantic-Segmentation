@@ -1,5 +1,0 @@
-/pytorch
-/numpy
-/python
-/open CV2
-/YOLO
